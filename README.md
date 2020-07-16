@@ -9,6 +9,7 @@ Origin https://github.com/yanzai/goindex
 - classic: https://indexc.gd.workers.dev/
 
 ---
+### Features
 - Light or Dark Themes
 - Color Choice
 - Search
