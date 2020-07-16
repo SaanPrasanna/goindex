@@ -5,8 +5,8 @@
 Origin https://github.com/yanzai/goindex
 
 ### Demo
--material: https://index.gd.workers.dev/
--classic: https://indexc.gd.workers.dev/
+- material: https://index.gd.workers.dev/
+- classic: https://indexc.gd.workers.dev/
 
 ---
 - Light or Dark Themes
