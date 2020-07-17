@@ -21,5 +21,5 @@
 Cloudflare Workers allow you to write JavaScript which runs on all of Cloudflare's 150+ global data centers.
 
 
-### Credits - Original Auther
+### Credits - Original Author
 [yanzai](https://github.com/yanzai/goindex)
