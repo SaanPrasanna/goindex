@@ -1,9 +1,6 @@
 
 ![GoIndex Drive](https://raw.githubusercontent.com/kulokenci/goindex-drive/master/go-drive-logo.png)
 
-### Source
-Origin https://github.com/yanzai/goindex
-
 ### Demo
 - material: https://index.gd.workers.dev/
 - classic: https://indexc.gd.workers.dev/
@@ -22,3 +19,7 @@ Origin https://github.com/yanzai/goindex
 
 ### About
 Cloudflare Workers allow you to write JavaScript which runs on all of Cloudflare's 150+ global data centers.
+
+
+### Credits - Original Auther
+[yanzai](https://github.com/yanzai/goindex)
