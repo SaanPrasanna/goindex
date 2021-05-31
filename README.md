@@ -17,4 +17,4 @@ Cloudflare Workers allow you to write JavaScript which runs on all of Cloudflare
 
 
 ### Credits - Original Author
-[yanzai](https://github.com/yanzai/goindex)
+[donwa](https://github.com/donwa/goindex)
